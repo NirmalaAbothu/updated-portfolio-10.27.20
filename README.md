@@ -8,11 +8,19 @@
 
 ![alt text](Assets/Images/AboutMe.PNG)
 
+---
+
 ![alt text](Assets/Images/weatherdashboard.PNG)
+
+---
 
 ![alt text](Assets/Images/Workdayscheduler.PNG)
 
+---
+
 ![alt text](Assets/Images/Hikingproject.PNG)
+
+---
 
 Updated existing portfolio project with following:
 
