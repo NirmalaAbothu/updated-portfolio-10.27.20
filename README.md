@@ -15,8 +15,7 @@ Updated existing portfolio project with following:
 
 1. [GitHub Profile](https://github.com/NirmalaAbothu)
 2. [Updated Resume](Assets//Resume/Resume*Nirmala* Abothu_R.pdf)
-3. [Updated LinkedIn](https://www.linkedin.com/in/nirmala-abothu-170a7435/)
-   ed
+3. [LinkedIn](https://www.linkedin.com/in/nirmala-abothu-170a7435/)
 
 To get a local copy up and running follow below steps.
 
@@ -28,8 +27,6 @@ None
 
 Clone the repo
 git clone git@github.com:NirmalaAbothu/updated-portfolio-10.27.20.git
-
----
 
 ## License & copyright
 
