@@ -34,4 +34,4 @@ Copyright © 2020 Nirmala Abothu
 
 ## Deployed project link
 
-[Updated-Portfolio](https://nirmalaabothu.github.io/portfolio-homework-9.15.20/)
+[Updated-Portfolio](https://nirmalaabothu.github.io/updated-portfolio-10.27.20/)
